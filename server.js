@@ -14,7 +14,7 @@ const cors = require('cors');
 const app = express()
 
 
-//import routes
+//import routes of Ramona Vanhoff
 const topicRoutes = require('./routes/topics');
 const groupRoutes = require('./routes/group');
 
